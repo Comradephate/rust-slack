@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["SlackColor","Default slack colors built-in to the API See: https://api.slack.com/docs/attachments"]],"struct":[["HexColor","The `HexColor` string can be one of:"]]});

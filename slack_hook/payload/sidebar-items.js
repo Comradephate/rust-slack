@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PayloadTemplate","Templates to support common payload use cases"]],"struct":[["Payload","Payload to send to slack https://api.slack.com/incoming-webhooks https://api.slack.com/methods/chat.postMessage"]]});

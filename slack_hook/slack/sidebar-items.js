@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Slack","Handles sending messages to slack"],["SlackLink","Representation of a link sent in slack"],["SlackText","Representation of any text sent through slack the text must be processed to escape specific characters"]]});

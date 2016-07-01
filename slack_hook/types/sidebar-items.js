@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ErrorKind","Different kinds of errors handled"]],"struct":[["SlackError","main Slack library error"]],"type":[["SlackResult","Result alias to save typing"]]});
